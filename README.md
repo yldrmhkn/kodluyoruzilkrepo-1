@@ -1,10 +1,11 @@
 # Kodluyoruz Ilk Repo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçersinde bir adet README dosyası, bir adet index.html barındırıyor.
 
+![Image](/img/git_repo.png)
 
 # Installation
 Öncelikle projeyi clonelayın.
-![Image](/img/git_repo.png)
+
 ```
 git clone https://github.com/nurisargin/kodluyoruzilkrepo.git
 ```
